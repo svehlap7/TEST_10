@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_BINAR2\bin\Debug\TEST_BINAR2.exe.config
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_BINAR2\bin\Debug\TEST_BINAR2.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_BINAR2\bin\Debug\TEST_BINAR2.pdb
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_BINAR2\obj\Debug\TEST_BINAR2.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_BINAR2\obj\Debug\TEST_BINAR2.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_BINAR2\obj\Debug\TEST_BINAR2.Form1.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_BINAR2\obj\Debug\TEST_BINAR2.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_BINAR2\obj\Debug\TEST_BINAR2.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_BINAR2\obj\Debug\TEST_BINAR2.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_BINAR2\obj\Debug\TEST_BINAR2.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\TEST_BINAR2\obj\Debug\TEST_BINAR2.pdb
